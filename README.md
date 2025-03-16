@@ -21,4 +21,4 @@
 ---
 
 ### 💀 Project
-#### Commingsoon!!
+* #### GitHub : [https://github.com/pscp-lovechotipat/VPSTycoon](https://github.com/pscp-lovechotipat/VPSTycoon)
