@@ -2,7 +2,6 @@ import java.awt.event.* ;
 import java.time.LocalDateTime ;
 import java.time.format.DateTimeFormatter ;
 import java.io.* ;
-import javax.swing.JFrame;
 public class ChatDemo_Event implements ActionListener, WindowListener {
     private ChatDemo cd ;
     public ChatDemo_Event(ChatDemo cd){

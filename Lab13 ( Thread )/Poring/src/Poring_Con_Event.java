@@ -13,6 +13,5 @@ public class Poring_Con_Event implements ActionListener{
             Thread tp = new Thread(pr) ;
             tp.start() ;
         }
-            
     }
 }
