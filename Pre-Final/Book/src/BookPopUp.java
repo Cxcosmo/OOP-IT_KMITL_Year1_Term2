@@ -7,7 +7,6 @@
  *
  * @author Cxcosmo
  */
-import java.awt.* ;
 import javax.swing.* ;
 public class BookPopUp {
     public BookPopUp(String status, String name){
